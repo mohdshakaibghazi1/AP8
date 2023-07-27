@@ -1,0 +1,8 @@
+C:\Users\moham\source\repos\AssistedProject\AP8\AP8\obj\Debug\AP8.csproj.AssemblyReference.cache
+C:\Users\moham\source\repos\AssistedProject\AP8\AP8\obj\Debug\AP8.csproj.SuggestedBindingRedirects.cache
+C:\Users\moham\source\repos\AssistedProject\AP8\AP8\obj\Debug\AP8.csproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\AssistedProject\AP8\AP8\bin\Debug\AP8.exe.config
+C:\Users\moham\source\repos\AssistedProject\AP8\AP8\bin\Debug\AP8.exe
+C:\Users\moham\source\repos\AssistedProject\AP8\AP8\bin\Debug\AP8.pdb
+C:\Users\moham\source\repos\AssistedProject\AP8\AP8\obj\Debug\AP8.exe
+C:\Users\moham\source\repos\AssistedProject\AP8\AP8\obj\Debug\AP8.pdb
